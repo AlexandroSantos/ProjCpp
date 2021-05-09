@@ -40,3 +40,7 @@ __Requisitos:__ Arquivos de instalação e tutorial para instalação do SDK
  __Compilar:__ g++ -o ProgAr ProgAr.cpp -lncurses
  
   __Executar:__ ./ProgAr
+  
+  
+  # Relatório de testes
+  No diretório __ProcTestes__ existe uma arquivo pdf contento os testes realizados.
