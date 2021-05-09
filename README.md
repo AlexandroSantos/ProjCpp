@@ -43,4 +43,4 @@ __Requisitos:__ Arquivos de instalação e tutorial para instalação do SDK
   
   
   # Relatório de testes
-  No diretório __ProcTestes__ existe uma arquivo pdf contento os testes realizados.
+  No diretório __ProcTestes__ existe um arquivo pdf contento os testes realizados.
