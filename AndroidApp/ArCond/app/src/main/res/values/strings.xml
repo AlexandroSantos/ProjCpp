@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ArCond</string>
+    <string name="desl">Desligar</string>
+    <string name="ligar">Ligar</string>
+    <string name="tit">Controle do Ar Condicionado</string>
+    <string name="todo">TODO</string>
+</resources>
