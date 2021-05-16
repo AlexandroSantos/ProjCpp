@@ -24,7 +24,7 @@
     <Button
         android:id="@+id/ligar"
         android:layout_width="150dp"
-        android:layout_height="wrap_content"
+        android:layout_height="80dp"
         android:layout_marginStart="35dp"
         android:layout_marginTop="60dp"
         android:onClick="onButtonLigarClicked"
@@ -35,7 +35,7 @@
     <Button
         android:id="@+id/desligar"
         android:layout_width="150dp"
-        android:layout_height="wrap_content"
+        android:layout_height="80dp"
         android:layout_marginTop="60dp"
         android:layout_marginEnd="35dp"
         android:onClick="onButtonDesligadoClicked"
@@ -70,6 +70,48 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/titulo"
         app:layout_constraintTop_toBottomOf="@+id/titulo" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="150dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="13dp"
+        android:text="@string/ls"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ligar" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="150dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="13dp"
+        android:layout_marginEnd="35dp"
+        android:text="@string/gs"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/desligar" />
+
+    <Button
+        android:id="@+id/relat"
+        android:layout_width="150dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="13dp"
+        android:onClick="onButtonRelatorioClicked"
+        android:text="@string/rlt"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button" />
+
+    <Button
+        android:id="@+id/sair"
+        android:layout_width="150dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="13dp"
+        android:layout_marginEnd="35dp"
+        android:onClick="onButtonSairClicked"
+        android:text="@string/sr"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button2" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

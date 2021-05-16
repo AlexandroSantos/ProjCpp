@@ -4,4 +4,32 @@
     <string name="ligar">Ligar</string>
     <string name="tit">Controle do Ar Condicionado</string>
     <string name="todo">TODO</string>
+    <string name="ls">Ler Setup</string>
+    <string name="gs">Gravar Setup</string>
+    <string name="rlt">Relatório</string>
+    <string name="sr">Sair</string>
+    <string name="col_id">ID</string>
+    <string name="col_dt">Data</string>
+    <string name="col_hr">Hora</string>
+    <string name="col_op">Operação</string>
+
+    <string name="row_1_id">01</string>
+    <string name="row_1_dt">15/05/21</string>
+    <string name="row_1_hr">08:56:38</string>
+    <string name="row_1_op">01</string>
+
+    <string name="row_2_id">01</string>
+    <string name="row_2_dt">15/05/21</string>
+    <string name="row_2_hr">09:56:38</string>
+    <string name="row_2_op">01</string>
+
+    <string name="row_3_id">01</string>
+    <string name="row_3_dt">16/05/21</string>
+    <string name="row_3_hr">11:56:38</string>
+    <string name="row_3_op">01</string>
+
+    <string name="row_4_id">01</string>
+    <string name="row_4_dt">16/05/21</string>
+    <string name="row_4_hr">16:56:38</string>
+    <string name="row_4_op">01</string>
 </resources>
