@@ -44,3 +44,7 @@ __Requisitos:__ Arquivos de instalação e tutorial para instalação do SDK
   
   # Relatório de testes
   No diretório __ProcTestes__ existe um arquivo pdf contento os testes realizados.
+  
+  # Android App
+  No diretporio __AndroidApp/__ encontra-se o código fonte para o App android - deselvolvido em C++ no Android Studio 4.2.1
+  
